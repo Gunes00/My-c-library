@@ -1,0 +1,1 @@
+void alt_bzero(void *s")
